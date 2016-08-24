@@ -7,7 +7,7 @@ Maya, Kat, Data Mining, Mentor: Jasper
 
 # Brief Description
 
-For our project we want to analyze how fashion/ clothing reviews have diiferent words when used by males vs females. We will use the data to predict if reviews will be positive or negative based on the keywords.
+For our project we want to analyze how fashion/ clothing reviews have different keywords when used by males vs females. We will use the data to predict if reviews will be positive or negative based on the keywords.
 
 # Stages
 Stage 1: Collect clothing reviews from an online fashion retailer 
